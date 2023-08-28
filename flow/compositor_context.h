@@ -8,6 +8,7 @@
 #include <memory>
 #include <string>
 
+#include "flow/instrumentation_dl.h"
 #include "flutter/common/graphics/texture.h"
 #include "flutter/flow/diff_context.h"
 #include "flutter/flow/embedded_views.h"
@@ -208,8 +209,10 @@ class CompositorContext {
  private:
   RasterCache raster_cache_;
   std::shared_ptr<TextureRegistry> texture_registry_;
-  Stopwatch raster_time_;
-  Stopwatch ui_time_;
+  // FIXME: Do not commit.
+  DlStopwatch raster_time_;
+  DlStopwatch ui_time_;
+  // ENDFIXME.
   LayerSnapshotStore layer_snapshot_store_;
 
   /// Only used by default constructor of `CompositorContext`.

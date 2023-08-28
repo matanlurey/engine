@@ -40,7 +40,7 @@ class Stopwatch {
 
   void InitVisualizeSurface(SkISize size) const;
 
-  void Visualize(DlCanvas* canvas, const SkRect& rect) const;
+  virtual void Visualize(DlCanvas* canvas, const SkRect& rect) const;
 
   void Start();
 
@@ -51,14 +51,16 @@ class Stopwatch {
   /// All places which want to get frame_budget should call this function.
   fml::Milliseconds GetFrameBudget() const;
 
- private:
+ protected:
   inline double UnitFrameInterval(double time_ms) const;
   inline double UnitHeight(double time_ms, double max_height) const;
 
-  const RefreshRateUpdater& refresh_rate_updater_;
-  fml::TimePoint start_;
   std::vector<fml::TimeDelta> laps_;
   size_t current_sample_;
+
+ private:
+  const RefreshRateUpdater& refresh_rate_updater_;
+  fml::TimePoint start_;
 
   // Mutable data cache for performance optimization of the graphs. Prevents
   // expensive redrawing of old data.

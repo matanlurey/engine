@@ -6,6 +6,7 @@
 
 #include <optional>
 #include <utility>
+#include "flow/instrumentation_dl.h"
 #include "flutter/flow/layers/layer_tree.h"
 #include "third_party/skia/include/core/SkCanvas.h"
 
@@ -47,9 +48,7 @@ std::optional<SkRect> FrameDamage::ComputeClipRect(
 }
 
 CompositorContext::CompositorContext()
-    : texture_registry_(std::make_shared<TextureRegistry>()),
-      raster_time_(fixed_refresh_rate_updater_),
-      ui_time_(fixed_refresh_rate_updater_) {}
+    : CompositorContext(fixed_refresh_rate_updater_) {}
 
 CompositorContext::CompositorContext(Stopwatch::RefreshRateUpdater& updater)
     : texture_registry_(std::make_shared<TextureRegistry>()),
