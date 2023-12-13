@@ -2,8 +2,9 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
-#ifndef FLUTTER_SHELL_PLATFORM_SURFACE_TEXTURE_EXTERNAL_TEXTURE_H_
-#define FLUTTER_SHELL_PLATFORM_SURFACE_TEXTURE_EXTERNAL_TEXTURE_H_
+#ifndef FLUTTER_SHELL_PLATFORM_ANDROID_SURFACE_TEXTURE_EXTERNAL_TEXTURE_H_
+
+#define FLUTTER_SHELL_PLATFORM_ANDROID_SURFACE_TEXTURE_EXTERNAL_TEXTURE_H_
 
 #include <GLES/gl.h>
 
@@ -56,4 +57,5 @@ class SurfaceTextureExternalTexture : public flutter::Texture {
 
 }  // namespace flutter
 
-#endif  // FLUTTER_SHELL_PLATFORM_SURFACE_TEXTURE_EXTERNAL_TEXTURE_H_
+#endif  // FLUTTER_SHELL_PLATFORM_ANDROID_SURFACE_TEXTURE_EXTERNAL_TEXTURE_H_
+

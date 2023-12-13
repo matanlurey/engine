@@ -5,8 +5,9 @@
 /// Text editing functionality delegated from |PlatformView|.
 /// See |TextDelegate| for details.
 
-#ifndef FLUTTER_SHELL_PLATFORM_FUCHSIA_TEXT_DELEGATE_H_
-#define FLUTTER_SHELL_PLATFORM_FUCHSIA_TEXT_DELEGATE_H_
+#ifndef FLUTTER_SHELL_PLATFORM_FUCHSIA_FLUTTER_TEXT_DELEGATE_H_
+
+#define FLUTTER_SHELL_PLATFORM_FUCHSIA_FLUTTER_TEXT_DELEGATE_H_
 
 #include <memory>
 
@@ -151,4 +152,5 @@ class TextDelegate : public fuchsia::ui::input3::KeyboardListener,
 
 }  // namespace flutter_runner
 
-#endif  // FLUTTER_SHELL_PLATFORM_FUCHSIA_TEXT_DELEGATE_H_
+#endif  // FLUTTER_SHELL_PLATFORM_FUCHSIA_FLUTTER_TEXT_DELEGATE_H_
+

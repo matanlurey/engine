@@ -2,8 +2,9 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
-#ifndef FLUTTER_SHELL_PLATFORM_LINUX_MOCK_SIGNAL_HANDLER_H_
-#define FLUTTER_SHELL_PLATFORM_LINUX_MOCK_SIGNAL_HANDLER_H_
+#ifndef FLUTTER_SHELL_PLATFORM_LINUX_TESTING_MOCK_SIGNAL_HANDLER_H_
+
+#define FLUTTER_SHELL_PLATFORM_LINUX_TESTING_MOCK_SIGNAL_HANDLER_H_
 
 #include <glib-object.h>
 #include <glib.h>
@@ -87,4 +88,5 @@ class MockSignalHandler2 : public SignalHandler {
 }  // namespace testing
 }  // namespace flutter
 
-#endif  // FLUTTER_SHELL_PLATFORM_LINUX_MOCK_SIGNAL_HANDLER_H_
+#endif  // FLUTTER_SHELL_PLATFORM_LINUX_TESTING_MOCK_SIGNAL_HANDLER_H_
+

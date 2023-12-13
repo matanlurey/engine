@@ -2,8 +2,9 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
-#ifndef SHELL_PLATFORM_ANDROID_SURFACE_SNAPSHOT_SURFACE_PRODUCER_H_
-#define SHELL_PLATFORM_ANDROID_SURFACE_SNAPSHOT_SURFACE_PRODUCER_H_
+#ifndef FLUTTER_SHELL_PLATFORM_ANDROID_SURFACE_SNAPSHOT_SURFACE_PRODUCER_H_
+
+#define FLUTTER_SHELL_PLATFORM_ANDROID_SURFACE_SNAPSHOT_SURFACE_PRODUCER_H_
 
 #include "flutter/flow/surface.h"
 #include "flutter/shell/common/snapshot_surface_producer.h"
@@ -23,4 +24,5 @@ class AndroidSnapshotSurfaceProducer : public SnapshotSurfaceProducer {
 };
 
 }  // namespace flutter
-#endif  // SHELL_PLATFORM_ANDROID_SURFACE_SNAPSHOT_SURFACE_PRODUCER_H_
+#endif  // FLUTTER_SHELL_PLATFORM_ANDROID_SURFACE_SNAPSHOT_SURFACE_PRODUCER_H_
+

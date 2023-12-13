@@ -2,8 +2,9 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
-#ifndef FLUTTER_SHELL_PLATFORM_FUCHSIA_TESTS_FAKES_VIEW_REF_FOCUSED_H_
-#define FLUTTER_SHELL_PLATFORM_FUCHSIA_TESTS_FAKES_VIEW_REF_FOCUSED_H_
+#ifndef FLUTTER_SHELL_PLATFORM_FUCHSIA_FLUTTER_TESTS_FAKES_VIEW_REF_FOCUSED_H_
+
+#define FLUTTER_SHELL_PLATFORM_FUCHSIA_FLUTTER_TESTS_FAKES_VIEW_REF_FOCUSED_H_
 
 #include <fuchsia/ui/views/cpp/fidl.h>
 
@@ -33,4 +34,5 @@ class FakeViewRefFocused : public ViewRefFocused {
 
 }  // namespace flutter_runner::testing
 
-#endif  // FLUTTER_SHELL_PLATFORM_FUCHSIA_TESTS_FAKES_VIEW_REF_FOCUSED_H_
+#endif  // FLUTTER_SHELL_PLATFORM_FUCHSIA_FLUTTER_TESTS_FAKES_VIEW_REF_FOCUSED_H_
+

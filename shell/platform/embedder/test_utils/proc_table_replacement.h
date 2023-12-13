@@ -2,8 +2,9 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
-#ifndef FLUTTER_SHELL_PLATFORM_COMMON_TESTING_PROC_TABLE_REPLACEMENT_H_
-#define FLUTTER_SHELL_PLATFORM_COMMON_TESTING_PROC_TABLE_REPLACEMENT_H_
+#ifndef FLUTTER_SHELL_PLATFORM_EMBEDDER_TEST_UTILS_PROC_TABLE_REPLACEMENT_H_
+
+#define FLUTTER_SHELL_PLATFORM_EMBEDDER_TEST_UTILS_PROC_TABLE_REPLACEMENT_H_
 
 #include "flutter/shell/platform/embedder/embedder.h"
 
@@ -26,4 +27,5 @@
     return non_capturing;                                                      \
   })()
 
-#endif  // FLUTTER_SHELL_PLATFORM_COMMON_TESTING_PROC_TABLE_REPLACEMENT_H_
+#endif  // FLUTTER_SHELL_PLATFORM_EMBEDDER_TEST_UTILS_PROC_TABLE_REPLACEMENT_H_
+

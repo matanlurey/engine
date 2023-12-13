@@ -3,6 +3,7 @@
 // found in the LICENSE file.
 
 #ifndef FLUTTER_SHELL_PLATFORM_DARWIN_IOS_PLATFORM_MESSAGE_HANDLER_IOS_H_
+
 #define FLUTTER_SHELL_PLATFORM_DARWIN_IOS_PLATFORM_MESSAGE_HANDLER_IOS_H_
 
 #include <unordered_map>
@@ -49,4 +50,5 @@ class PlatformMessageHandlerIos : public PlatformMessageHandler {
 
 }  // namespace flutter
 
-#endif
+#endif  // FLUTTER_SHELL_PLATFORM_DARWIN_IOS_PLATFORM_MESSAGE_HANDLER_IOS_H_
+

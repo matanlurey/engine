@@ -2,8 +2,9 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
-#ifndef FLUTTER_SHELL_PLATFORM_EMBEDDER_EMBEDDER_FLUTTER_LAYERS_H_
-#define FLUTTER_SHELL_PLATFORM_EMBEDDER_EMBEDDER_FLUTTER_LAYERS_H_
+#ifndef FLUTTER_SHELL_PLATFORM_EMBEDDER_EMBEDDER_LAYERS_H_
+
+#define FLUTTER_SHELL_PLATFORM_EMBEDDER_EMBEDDER_LAYERS_H_
 
 #include <memory>
 #include <vector>
@@ -54,4 +55,5 @@ class EmbedderLayers {
 
 }  // namespace flutter
 
-#endif  // FLUTTER_SHELL_PLATFORM_EMBEDDER_EMBEDDER_FLUTTER_LAYERS_H_
+#endif  // FLUTTER_SHELL_PLATFORM_EMBEDDER_EMBEDDER_LAYERS_H_
+
