@@ -82,4 +82,3 @@ class EmbedderTestContextMetal : public EmbedderTestContext {
 }  // namespace flutter
 
 #endif  // FLUTTER_SHELL_PLATFORM_EMBEDDER_TESTS_EMBEDDER_TEST_CONTEXT_METAL_H_
-

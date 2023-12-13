@@ -17,4 +17,3 @@ std::filesystem::path GetExecutableDirectory();
 }  // namespace flutter
 
 #endif  // FLUTTER_SHELL_PLATFORM_COMMON_PATH_UTILS_H_
-

@@ -48,4 +48,3 @@ GLogLevelFlags fl_get_received_gtk_log_levels();
 }  // namespace testing
 }  // namespace flutter
 #endif  // FLUTTER_SHELL_PLATFORM_LINUX_TESTING_FL_TEST_GTK_LOGS_H_
-

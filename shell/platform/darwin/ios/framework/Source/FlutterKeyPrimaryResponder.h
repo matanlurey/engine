@@ -33,4 +33,3 @@ typedef void (^FlutterAsyncKeyCallback)(BOOL handled);
 @end
 
 #endif  // FLUTTER_SHELL_PLATFORM_DARWIN_IOS_FRAMEWORK_SOURCE_FLUTTERKEYPRIMARYRESPONDER_H_
-

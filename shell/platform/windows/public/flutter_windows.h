@@ -286,4 +286,3 @@ FLUTTER_EXPORT void FlutterDesktopResyncOutputStreams();
 #endif
 
 #endif  // FLUTTER_SHELL_PLATFORM_WINDOWS_PUBLIC_FLUTTER_WINDOWS_H_
-

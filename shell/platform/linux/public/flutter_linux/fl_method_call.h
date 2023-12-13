@@ -116,4 +116,3 @@ gboolean fl_method_call_respond_not_implemented(FlMethodCall* method_call,
 G_END_DECLS
 
 #endif  // FLUTTER_SHELL_PLATFORM_LINUX_PUBLIC_FLUTTER_LINUX_FL_METHOD_CALL_H_
-

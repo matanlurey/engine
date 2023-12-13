@@ -51,4 +51,3 @@ enum class PlatformProvidedMenu {
 }  // namespace flutter
 
 #endif  // FLUTTER_SHELL_PLATFORM_COMMON_PLATFORM_PROVIDED_MENU_H_
-

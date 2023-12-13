@@ -111,4 +111,3 @@ class AccessibilityBridge final : public AccessibilityBridgeIos {
 }  // namespace flutter
 
 #endif  // FLUTTER_SHELL_PLATFORM_DARWIN_IOS_FRAMEWORK_SOURCE_ACCESSIBILITY_BRIDGE_H_
-

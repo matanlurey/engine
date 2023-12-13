@@ -59,4 +59,3 @@ class FakeTouchSource : public fuchsia::ui::pointer::TouchSource {
 }  // namespace flutter_runner::testing
 
 #endif  // FLUTTER_SHELL_PLATFORM_FUCHSIA_FLUTTER_TESTS_FAKES_TOUCH_SOURCE_H_
-

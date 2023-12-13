@@ -130,4 +130,3 @@ extern const std::map<ModifierFlag, ModifierFlag> anyModifierToLeft;
 extern const std::set<uint32_t> functionKeyCodes;
 
 #endif  // FLUTTER_SHELL_PLATFORM_DARWIN_IOS_FRAMEWORK_SOURCE_KEYCODEMAP_INTERNAL_H_
-

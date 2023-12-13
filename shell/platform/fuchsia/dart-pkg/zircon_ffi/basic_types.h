@@ -2,9 +2,9 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
-#ifndef FLUTTER_SHELL_PLATFORM_FUCHSIA_DART-PKG_ZIRCON_FFI_BASIC_TYPES_H_
+#ifndef FLUTTER_SHELL_PLATFORM_FUCHSIA_DART - PKG_ZIRCON_FFI_BASIC_TYPES_H_
 
-#define FLUTTER_SHELL_PLATFORM_FUCHSIA_DART-PKG_ZIRCON_FFI_BASIC_TYPES_H_
+#define FLUTTER_SHELL_PLATFORM_FUCHSIA_DART -PKG_ZIRCON_FFI_BASIC_TYPES_H_
 
 #include "macros.h"
 
@@ -35,4 +35,3 @@ ZIRCON_FFI_EXPORT void zircon_dart_byte_array_free(
 #endif
 
 #endif  // FLUTTER_SHELL_PLATFORM_FUCHSIA_DART-PKG_ZIRCON_FFI_BASIC_TYPES_H_
-

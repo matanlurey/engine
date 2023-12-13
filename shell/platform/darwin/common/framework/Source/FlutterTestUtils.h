@@ -12,4 +12,3 @@
 BOOL FLTThrowsObjcException(dispatch_block_t block);
 
 #endif  // FLUTTER_SHELL_PLATFORM_DARWIN_COMMON_FRAMEWORK_SOURCE_FLUTTERTESTUTILS_H_
-

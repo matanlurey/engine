@@ -40,4 +40,3 @@ class MockTextInputManager : public TextInputManager {
 }  // namespace flutter
 
 #endif  // FLUTTER_SHELL_PLATFORM_WINDOWS_TESTING_MOCK_TEXT_INPUT_MANAGER_H_
-

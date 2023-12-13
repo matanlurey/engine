@@ -54,4 +54,3 @@ typedef struct {
 extern const std::vector<LayoutGoal> layout_goals;
 
 #endif  // FLUTTER_SHELL_PLATFORM_LINUX_KEY_MAPPING_H_
-

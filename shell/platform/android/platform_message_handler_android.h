@@ -40,4 +40,3 @@ class PlatformMessageHandlerAndroid : public PlatformMessageHandler {
 }  // namespace flutter
 
 #endif  // FLUTTER_SHELL_PLATFORM_ANDROID_PLATFORM_MESSAGE_HANDLER_ANDROID_H_
-

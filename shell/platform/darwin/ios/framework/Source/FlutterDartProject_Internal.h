@@ -47,4 +47,3 @@ flutter::Settings FLTDefaultSettingsForBundle(NSBundle* _Nullable bundle = nil,
 NS_ASSUME_NONNULL_END
 
 #endif  // FLUTTER_SHELL_PLATFORM_DARWIN_IOS_FRAMEWORK_SOURCE_FLUTTERDARTPROJECT_INTERNAL_H_
-

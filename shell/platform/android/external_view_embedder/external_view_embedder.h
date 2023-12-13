@@ -151,4 +151,3 @@ class AndroidExternalViewEmbedder final : public ExternalViewEmbedder {
 }  // namespace flutter
 
 #endif  // FLUTTER_SHELL_PLATFORM_ANDROID_EXTERNAL_VIEW_EMBEDDER_EXTERNAL_VIEW_EMBEDDER_H_
-

@@ -58,4 +58,3 @@ std::unique_ptr<fml::FileMapping> MakeFileMapping(const char* path,
 }  // namespace flutter_runner
 
 #endif  // FLUTTER_SHELL_PLATFORM_FUCHSIA_FLUTTER_FILE_IN_NAMESPACE_BUFFER_H_
-

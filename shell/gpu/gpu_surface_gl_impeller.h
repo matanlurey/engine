@@ -65,4 +65,3 @@ class GPUSurfaceGLImpeller final : public Surface {
 }  // namespace flutter
 
 #endif  // FLUTTER_SHELL_GPU_GPU_SURFACE_GL_IMPELLER_H_
-

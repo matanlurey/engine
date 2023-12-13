@@ -41,4 +41,3 @@ class AndroidDisplay : public Display {
 }  // namespace flutter
 
 #endif  // FLUTTER_SHELL_PLATFORM_ANDROID_ANDROID_DISPLAY_H_
-

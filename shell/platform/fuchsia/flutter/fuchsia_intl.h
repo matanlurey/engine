@@ -23,4 +23,3 @@ fml::MallocMapping MakeLocalizationPlatformMessageData(
 }  // namespace flutter_runner
 
 #endif  // FLUTTER_SHELL_PLATFORM_FUCHSIA_FLUTTER_FUCHSIA_INTL_H_
-

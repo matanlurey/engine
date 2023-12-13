@@ -50,4 +50,3 @@ class FakeFocuser : public fuchsia::ui::views::testing::Focuser_TestBase {
 }  // namespace flutter_runner::testing
 
 #endif  // FLUTTER_SHELL_PLATFORM_FUCHSIA_FLUTTER_TESTS_FAKES_FOCUSER_H_
-

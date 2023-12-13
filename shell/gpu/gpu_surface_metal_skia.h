@@ -73,4 +73,3 @@ class SK_API_AVAILABLE_CA_METAL_LAYER GPUSurfaceMetalSkia : public Surface {
 }  // namespace flutter
 
 #endif  // FLUTTER_SHELL_GPU_GPU_SURFACE_METAL_SKIA_H_
-

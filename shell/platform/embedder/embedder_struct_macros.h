@@ -31,4 +31,3 @@
   (SAFE_EXISTS(pointer, member1) != SAFE_EXISTS(pointer, member2))
 
 #endif  // FLUTTER_SHELL_PLATFORM_EMBEDDER_EMBEDDER_STRUCT_MACROS_H_
-

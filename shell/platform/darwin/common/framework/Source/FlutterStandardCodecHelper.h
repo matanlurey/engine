@@ -122,4 +122,3 @@ bool FlutterStandardCodecHelperWriteNumber(CFMutableDataRef data,
 #endif
 
 #endif  // FLUTTER_SHELL_PLATFORM_DARWIN_COMMON_FRAMEWORK_SOURCE_FLUTTERSTANDARDCODECHELPER_H_
-

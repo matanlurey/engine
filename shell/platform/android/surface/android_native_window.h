@@ -57,4 +57,3 @@ class AndroidNativeWindow
 }  // namespace flutter
 
 #endif  // FLUTTER_SHELL_PLATFORM_ANDROID_SURFACE_ANDROID_NATIVE_WINDOW_H_
-

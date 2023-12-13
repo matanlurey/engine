@@ -82,4 +82,3 @@ class FlutterDesktopMessenger {
 }  // namespace flutter
 
 #endif  // FLUTTER_SHELL_PLATFORM_WINDOWS_FLUTTER_DESKTOP_MESSENGER_H_
-

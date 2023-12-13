@@ -35,4 +35,3 @@ class FakeViewRefFocused : public ViewRefFocused {
 }  // namespace flutter_runner::testing
 
 #endif  // FLUTTER_SHELL_PLATFORM_FUCHSIA_FLUTTER_TESTS_FAKES_VIEW_REF_FOCUSED_H_
-

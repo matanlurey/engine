@@ -27,4 +27,3 @@ class FlutterWindowTest : public FlutterWindow {
 }  // namespace flutter
 
 #endif  // FLUTTER_SHELL_PLATFORM_WINDOWS_TESTING_FLUTTER_WINDOW_TEST_H_
-

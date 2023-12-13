@@ -47,4 +47,3 @@ class FlutterMain {
 }  // namespace flutter
 
 #endif  // FLUTTER_SHELL_PLATFORM_ANDROID_FLUTTER_MAIN_H_
-

@@ -52,4 +52,3 @@ class VsyncWaiterAndroid final : public VsyncWaiter {
 }  // namespace flutter
 
 #endif  // FLUTTER_SHELL_PLATFORM_ANDROID_VSYNC_WAITER_ANDROID_H_
-

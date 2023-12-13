@@ -54,4 +54,3 @@ class WindowProcDelegateManager {
 }  // namespace flutter
 
 #endif  // FLUTTER_SHELL_PLATFORM_WINDOWS_WINDOW_PROC_DELEGATE_MANAGER_H_
-

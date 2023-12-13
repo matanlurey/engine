@@ -116,4 +116,3 @@ class ScopedStubFlutterGlfwApi {
 }  // namespace flutter
 
 #endif  // FLUTTER_SHELL_PLATFORM_GLFW_CLIENT_WRAPPER_TESTING_STUB_FLUTTER_GLFW_API_H_
-

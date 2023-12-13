@@ -817,4 +817,3 @@ class Shell final : public PlatformView::Delegate,
 }  // namespace flutter
 
 #endif  // FLUTTER_SHELL_COMMON_SHELL_H_
-

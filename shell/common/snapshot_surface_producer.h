@@ -21,4 +21,3 @@ class SnapshotSurfaceProducer {
 
 }  // namespace flutter
 #endif  // FLUTTER_SHELL_COMMON_SNAPSHOT_SURFACE_PRODUCER_H_
-

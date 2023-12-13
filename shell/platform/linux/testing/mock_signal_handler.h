@@ -89,4 +89,3 @@ class MockSignalHandler2 : public SignalHandler {
 }  // namespace flutter
 
 #endif  // FLUTTER_SHELL_PLATFORM_LINUX_TESTING_MOCK_SIGNAL_HANDLER_H_
-

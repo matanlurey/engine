@@ -145,4 +145,3 @@ class ComponentV2 final
 }  // namespace flutter_runner
 
 #endif  // FLUTTER_SHELL_PLATFORM_FUCHSIA_FLUTTER_COMPONENT_V2_H_
-

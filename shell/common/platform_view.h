@@ -883,4 +883,3 @@ class PlatformView {
 }  // namespace flutter
 
 #endif  // FLUTTER_SHELL_COMMON_PLATFORM_VIEW_H_
-

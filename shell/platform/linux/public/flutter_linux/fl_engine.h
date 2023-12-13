@@ -61,4 +61,3 @@ FlTextureRegistrar* fl_engine_get_texture_registrar(FlEngine* engine);
 G_END_DECLS
 
 #endif  // FLUTTER_SHELL_PLATFORM_LINUX_PUBLIC_FLUTTER_LINUX_FL_ENGINE_H_
-

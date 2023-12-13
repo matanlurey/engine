@@ -69,4 +69,3 @@ typedef NS_ENUM(NSInteger, FlutterFloatingCursorDragState) {
 @end
 
 #endif  // FLUTTER_SHELL_PLATFORM_DARWIN_IOS_FRAMEWORK_SOURCE_FLUTTERTEXTINPUTDELEGATE_H_
-

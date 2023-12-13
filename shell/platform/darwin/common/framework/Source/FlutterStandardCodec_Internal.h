@@ -60,4 +60,3 @@ UInt8 elementSizeForFlutterStandardDataType(FlutterStandardDataType type) {
 }  // namespace flutter
 
 #endif  // FLUTTER_SHELL_PLATFORM_DARWIN_COMMON_FRAMEWORK_SOURCE_FLUTTERSTANDARDCODEC_INTERNAL_H_
-

@@ -737,4 +737,3 @@ class Rasterizer final : public SnapshotDelegate,
 }  // namespace flutter
 
 #endif  // FLUTTER_SHELL_COMMON_RASTERIZER_H_
-

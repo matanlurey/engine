@@ -58,4 +58,3 @@ class SurfaceTextureExternalTexture : public flutter::Texture {
 }  // namespace flutter
 
 #endif  // FLUTTER_SHELL_PLATFORM_ANDROID_SURFACE_TEXTURE_EXTERNAL_TEXTURE_H_
-

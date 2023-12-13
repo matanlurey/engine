@@ -176,4 +176,3 @@ using PointerDataDispatcherMaker =
 }  // namespace flutter
 
 #endif  // FLUTTER_SHELL_COMMON_POINTER_DATA_DISPATCHER_H_
-

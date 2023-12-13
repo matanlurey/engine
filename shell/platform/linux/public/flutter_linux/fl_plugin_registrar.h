@@ -77,4 +77,3 @@ FlView* fl_plugin_registrar_get_view(FlPluginRegistrar* registrar);
 G_END_DECLS
 
 #endif  // FLUTTER_SHELL_PLATFORM_LINUX_PUBLIC_FLUTTER_LINUX_FL_PLUGIN_REGISTRAR_H_
-

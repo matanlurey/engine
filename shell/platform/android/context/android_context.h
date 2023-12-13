@@ -85,4 +85,3 @@ class AndroidContext {
 }  // namespace flutter
 
 #endif  // FLUTTER_SHELL_PLATFORM_ANDROID_CONTEXT_ANDROID_CONTEXT_H_
-

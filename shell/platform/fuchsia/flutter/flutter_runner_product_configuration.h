@@ -31,4 +31,3 @@ class FlutterRunnerProductConfiguration {
 
 }  // namespace flutter_runner
 #endif  // FLUTTER_SHELL_PLATFORM_FUCHSIA_FLUTTER_FLUTTER_RUNNER_PRODUCT_CONFIGURATION_H_
-

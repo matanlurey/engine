@@ -218,4 +218,3 @@ FlMethodNotImplementedResponse* fl_method_not_implemented_response_new();
 G_END_DECLS
 
 #endif  // FLUTTER_SHELL_PLATFORM_LINUX_PUBLIC_FLUTTER_LINUX_FL_METHOD_RESPONSE_H_
-

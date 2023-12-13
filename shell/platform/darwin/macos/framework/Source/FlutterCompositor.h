@@ -81,4 +81,3 @@ class FlutterCompositor {
 }  // namespace flutter
 
 #endif  // FLUTTER_SHELL_PLATFORM_DARWIN_MACOS_FRAMEWORK_SOURCE_FLUTTERCOMPOSITOR_H_
-

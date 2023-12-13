@@ -37,4 +37,3 @@ typedef void (^FlutterSendKeyEvent)(const FlutterKeyEvent& /* event */,
 @end
 
 #endif  // FLUTTER_SHELL_PLATFORM_DARWIN_IOS_FRAMEWORK_SOURCE_FLUTTEREMBEDDERKEYRESPONDER_H_
-

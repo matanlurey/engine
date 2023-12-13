@@ -94,4 +94,3 @@ class MockAccessibilityBridgeNoWindow : public AccessibilityBridgeIos {
 @end
 
 #endif  // FLUTTER_SHELL_PLATFORM_DARWIN_IOS_FRAMEWORK_SOURCE_SEMANTICSOBJECTTESTMOCKS_H_
-

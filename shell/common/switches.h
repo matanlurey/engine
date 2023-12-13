@@ -306,4 +306,3 @@ Settings SettingsFromCommandLine(const fml::CommandLine& command_line);
 }  // namespace flutter
 
 #endif  // FLUTTER_SHELL_COMMON_SWITCHES_H_
-

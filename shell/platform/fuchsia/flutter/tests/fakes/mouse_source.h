@@ -36,4 +36,3 @@ class FakeMouseSource : public fuchsia::ui::pointer::MouseSource {
 }  // namespace flutter_runner::testing
 
 #endif  // FLUTTER_SHELL_PLATFORM_FUCHSIA_FLUTTER_TESTS_FAKES_MOUSE_SOURCE_H_
-

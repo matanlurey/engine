@@ -97,4 +97,3 @@ class AccessibilityBridgeMac : public AccessibilityBridge {
 }  // namespace flutter
 
 #endif  // FLUTTER_SHELL_PLATFORM_DARWIN_MACOS_FRAMEWORK_SOURCE_ACCESSIBILITYBRIDGEMAC_H_
-

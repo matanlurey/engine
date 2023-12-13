@@ -100,4 +100,3 @@ FlValue* fl_json_message_codec_decode(FlJsonMessageCodec* codec,
 G_END_DECLS
 
 #endif  // FLUTTER_SHELL_PLATFORM_LINUX_PUBLIC_FLUTTER_LINUX_FL_JSON_MESSAGE_CODEC_H_
-

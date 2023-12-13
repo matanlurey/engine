@@ -155,4 +155,3 @@ class Engine final : public fuchsia::memorypressure::Watcher {
 }  // namespace flutter_runner
 
 #endif  // FLUTTER_SHELL_PLATFORM_FUCHSIA_FLUTTER_ENGINE_H_
-

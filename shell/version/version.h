@@ -17,4 +17,3 @@ const char* GetDartVersion();
 }  // namespace flutter
 
 #endif  // FLUTTER_SHELL_VERSION_VERSION_H_
-

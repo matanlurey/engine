@@ -66,4 +66,3 @@ class APKAssetProvider final : public AssetResolver {
 }  // namespace flutter
 
 #endif  // FLUTTER_SHELL_PLATFORM_ANDROID_APK_ASSET_PROVIDER_H_
-

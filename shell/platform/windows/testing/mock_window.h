@@ -105,4 +105,3 @@ class MockWindow : public FlutterWindow {
 }  // namespace flutter
 
 #endif  // FLUTTER_SHELL_PLATFORM_WINDOWS_TESTING_MOCK_WINDOW_H_
-

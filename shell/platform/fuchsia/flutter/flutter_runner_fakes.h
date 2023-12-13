@@ -139,4 +139,3 @@ class MockSemanticsManager
 }  // namespace flutter_runner_test
 
 #endif  // FLUTTER_SHELL_PLATFORM_FUCHSIA_FLUTTER_FLUTTER_RUNNER_FAKES_H_
-

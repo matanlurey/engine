@@ -190,4 +190,3 @@ class PlatformViewAndroid final : public PlatformView {
 }  // namespace flutter
 
 #endif  // FLUTTER_SHELL_PLATFORM_ANDROID_PLATFORM_VIEW_ANDROID_H_
-

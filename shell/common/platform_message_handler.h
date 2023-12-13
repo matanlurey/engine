@@ -47,4 +47,3 @@ class PlatformMessageHandler {
 }  // namespace flutter
 
 #endif  // FLUTTER_SHELL_COMMON_PLATFORM_MESSAGE_HANDLER_H_
-

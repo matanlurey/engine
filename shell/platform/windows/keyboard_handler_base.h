@@ -45,4 +45,3 @@ class KeyboardHandlerBase {
 }  // namespace flutter
 
 #endif  // FLUTTER_SHELL_PLATFORM_WINDOWS_KEYBOARD_HANDLER_BASE_H_
-

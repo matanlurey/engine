@@ -27,4 +27,3 @@
                        // value.
 
 #endif  // FLUTTER_SHELL_PLATFORM_WINDOWS_WINDOWSX_SHIM_H_
-

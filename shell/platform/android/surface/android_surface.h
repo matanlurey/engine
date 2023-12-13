@@ -62,4 +62,3 @@ class AndroidSurfaceFactory {
 }  // namespace flutter
 
 #endif  // FLUTTER_SHELL_PLATFORM_ANDROID_SURFACE_ANDROID_SURFACE_H_
-

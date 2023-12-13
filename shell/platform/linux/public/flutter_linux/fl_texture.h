@@ -51,4 +51,3 @@ int64_t fl_texture_get_id(FlTexture* texture);
 G_END_DECLS
 
 #endif  // FLUTTER_SHELL_PLATFORM_LINUX_PUBLIC_FLUTTER_LINUX_FL_TEXTURE_H_
-

@@ -208,4 +208,3 @@ FlValue* fl_basic_message_channel_send_finish(FlBasicMessageChannel* channel,
 G_END_DECLS
 
 #endif  // FLUTTER_SHELL_PLATFORM_LINUX_PUBLIC_FLUTTER_LINUX_FL_BASIC_MESSAGE_CHANNEL_H_
-

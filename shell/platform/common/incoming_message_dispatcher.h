@@ -77,4 +77,3 @@ class IncomingMessageDispatcher {
 }  // namespace flutter
 
 #endif  // FLUTTER_SHELL_PLATFORM_COMMON_INCOMING_MESSAGE_DISPATCHER_H_
-

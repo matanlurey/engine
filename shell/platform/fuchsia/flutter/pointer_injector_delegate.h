@@ -189,4 +189,3 @@ class PointerInjectorDelegate {
 
 }  // namespace flutter_runner
 #endif  // FLUTTER_SHELL_PLATFORM_FUCHSIA_FLUTTER_POINTER_INJECTOR_DELEGATE_H_
-

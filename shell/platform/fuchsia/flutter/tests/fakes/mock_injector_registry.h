@@ -92,4 +92,3 @@ class MockInjectorRegistry : public fuchsia::ui::pointerinjector::Registry,
 }  // namespace flutter_runner::testing
 
 #endif  // FLUTTER_SHELL_PLATFORM_FUCHSIA_FLUTTER_TESTS_FAKES_MOCK_INJECTOR_REGISTRY_H_
-

@@ -196,4 +196,3 @@ FlMethodResponse* fl_method_channel_invoke_method_finish(
 G_END_DECLS
 
 #endif  // FLUTTER_SHELL_PLATFORM_LINUX_PUBLIC_FLUTTER_LINUX_FL_METHOD_CHANNEL_H_
-

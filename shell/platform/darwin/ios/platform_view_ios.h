@@ -185,4 +185,3 @@ class PlatformViewIOS final : public PlatformView {
 }  // namespace flutter
 
 #endif  // FLUTTER_SHELL_PLATFORM_DARWIN_IOS_PLATFORM_VIEW_IOS_H_
-

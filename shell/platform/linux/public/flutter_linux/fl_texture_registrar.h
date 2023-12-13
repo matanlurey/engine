@@ -92,4 +92,3 @@ gboolean fl_texture_registrar_unregister_texture(FlTextureRegistrar* registrar,
 G_END_DECLS
 
 #endif  // FLUTTER_SHELL_PLATFORM_LINUX_PUBLIC_FLUTTER_LINUX_FL_TEXTURE_REGISTRAR_H_
-

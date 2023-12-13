@@ -83,4 +83,3 @@ class FocusDelegate {
 
 }  // namespace flutter_runner
 #endif  // FLUTTER_SHELL_PLATFORM_FUCHSIA_FLUTTER_FOCUS_DELEGATE_H_
-

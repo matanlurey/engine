@@ -113,4 +113,3 @@ class ShellTestExternalViewEmbedder final : public ExternalViewEmbedder {
 }  // namespace flutter
 
 #endif  // FLUTTER_SHELL_COMMON_SHELL_TEST_EXTERNAL_VIEW_EMBEDDER_H_
-

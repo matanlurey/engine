@@ -332,4 +332,3 @@ inline std::pair<zx_koid_t, zx_koid_t> GetKoids(
 };  // namespace flutter_runner::testing
 
 #endif  // FLUTTER_SHELL_PLATFORM_FUCHSIA_FLUTTER_TESTS_FAKES_SCENIC_FAKE_FLATLAND_TYPES_H_
-

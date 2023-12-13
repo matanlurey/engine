@@ -37,4 +37,3 @@ class VsyncWaiterEmbedder final : public VsyncWaiter {
 }  // namespace flutter
 
 #endif  // FLUTTER_SHELL_PLATFORM_EMBEDDER_VSYNC_WAITER_EMBEDDER_H_
-

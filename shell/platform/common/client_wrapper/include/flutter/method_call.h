@@ -42,4 +42,3 @@ class MethodCall {
 }  // namespace flutter
 
 #endif  // FLUTTER_SHELL_PLATFORM_COMMON_CLIENT_WRAPPER_INCLUDE_FLUTTER_METHOD_CALL_H_
-

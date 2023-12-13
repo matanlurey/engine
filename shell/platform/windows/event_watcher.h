@@ -37,4 +37,3 @@ class EventWatcher {
 }  // namespace flutter
 
 #endif  // FLUTTER_SHELL_PLATFORM_WINDOWS_EVENT_WATCHER_H_
-

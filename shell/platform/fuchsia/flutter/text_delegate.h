@@ -153,4 +153,3 @@ class TextDelegate : public fuchsia::ui::input3::KeyboardListener,
 }  // namespace flutter_runner
 
 #endif  // FLUTTER_SHELL_PLATFORM_FUCHSIA_FLUTTER_TEXT_DELEGATE_H_
-

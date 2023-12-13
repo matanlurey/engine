@@ -35,4 +35,3 @@ struct ProgramMetadata {
 }  // namespace flutter_runner
 
 #endif  // FLUTTER_SHELL_PLATFORM_FUCHSIA_FLUTTER_PROGRAM_METADATA_H_
-

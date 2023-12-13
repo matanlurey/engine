@@ -46,4 +46,3 @@ class AccessibilityBridgeIos {
 }  // namespace flutter
 
 #endif  // FLUTTER_SHELL_PLATFORM_DARWIN_IOS_FRAMEWORK_SOURCE_ACCESSIBILITY_BRIDGE_IOS_H_
-

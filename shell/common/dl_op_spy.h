@@ -111,4 +111,3 @@ class DlOpSpy final : public virtual DlOpReceiver,
 }  // namespace flutter
 
 #endif  // FLUTTER_SHELL_COMMON_DL_OP_SPY_H_
-

@@ -27,4 +27,3 @@ struct FlutterDesktopPluginRegistrar {
 };
 
 #endif  // FLUTTER_SHELL_PLATFORM_WINDOWS_WINDOW_STATE_H_
-

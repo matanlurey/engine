@@ -188,4 +188,3 @@ gboolean fl_event_channel_send_end_of_stream(FlEventChannel* channel,
 G_END_DECLS
 
 #endif  // FLUTTER_SHELL_PLATFORM_LINUX_PUBLIC_FLUTTER_LINUX_FL_EVENT_CHANNEL_H_
-

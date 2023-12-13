@@ -46,4 +46,3 @@ class IsolateConfigurator final {
 }  // namespace flutter_runner
 
 #endif  // FLUTTER_SHELL_PLATFORM_FUCHSIA_FLUTTER_ISOLATE_CONFIGURATOR_H_
-

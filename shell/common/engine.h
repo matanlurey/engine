@@ -1041,4 +1041,3 @@ class Engine final : public RuntimeDelegate, PointerDataDispatcher::Delegate {
 }  // namespace flutter
 
 #endif  // FLUTTER_SHELL_COMMON_ENGINE_H_
-

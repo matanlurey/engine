@@ -62,4 +62,3 @@ FlPluginRegistrar* fl_plugin_registry_get_registrar_for_plugin(
 G_END_DECLS
 
 #endif  // FLUTTER_SHELL_PLATFORM_LINUX_PUBLIC_FLUTTER_LINUX_FL_PLUGIN_REGISTRY_H_
-

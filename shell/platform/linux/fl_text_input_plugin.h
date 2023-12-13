@@ -67,4 +67,3 @@ gboolean fl_text_input_plugin_filter_keypress(FlTextInputPlugin* plugin,
 G_END_DECLS
 
 #endif  // FLUTTER_SHELL_PLATFORM_LINUX_FL_TEXT_INPUT_PLUGIN_H_
-

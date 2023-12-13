@@ -15,4 +15,3 @@ std::optional<SkColorType> getSkColorType(FlutterSoftwarePixelFormat pixfmt);
 std::optional<SkColorInfo> getSkColorInfo(FlutterSoftwarePixelFormat pixfmt);
 
 #endif  // FLUTTER_SHELL_PLATFORM_EMBEDDER_PIXEL_FORMATS_H_
-

@@ -2,9 +2,10 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
-#ifndef FLUTTER_SHELL_PLATFORM_FUCHSIA_DART-PKG_ZIRCON_SDK_EXT_HANDLE_WAITER_H_
+#ifndef FLUTTER_SHELL_PLATFORM_FUCHSIA_DART - \
+    PKG_ZIRCON_SDK_EXT_HANDLE_WAITER_H_
 
-#define FLUTTER_SHELL_PLATFORM_FUCHSIA_DART-PKG_ZIRCON_SDK_EXT_HANDLE_WAITER_H_
+#define FLUTTER_SHELL_PLATFORM_FUCHSIA_DART -PKG_ZIRCON_SDK_EXT_HANDLE_WAITER_H_
 
 #include <lib/async/cpp/wait.h>
 #include <lib/zx/handle.h>
@@ -62,4 +63,3 @@ class HandleWaiter : public fml::RefCountedThreadSafe<HandleWaiter>,
 }  // namespace zircon
 
 #endif  // FLUTTER_SHELL_PLATFORM_FUCHSIA_DART-PKG_ZIRCON_SDK_EXT_HANDLE_WAITER_H_
-

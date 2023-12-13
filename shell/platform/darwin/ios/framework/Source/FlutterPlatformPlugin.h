@@ -28,4 +28,3 @@ extern const char* const kOverlayStyleUpdateNotificationKey;
 }  // namespace flutter
 
 #endif  // FLUTTER_SHELL_PLATFORM_DARWIN_IOS_FRAMEWORK_SOURCE_FLUTTERPLATFORMPLUGIN_H_
-

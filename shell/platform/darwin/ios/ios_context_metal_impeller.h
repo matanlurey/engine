@@ -58,4 +58,3 @@ class IOSContextMetalImpeller final : public IOSContext {
 }  // namespace flutter
 
 #endif  // FLUTTER_SHELL_PLATFORM_DARWIN_IOS_IOS_CONTEXT_METAL_IMPELLER_H_
-

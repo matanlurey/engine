@@ -90,4 +90,3 @@ class GPUSurfaceGLSkia : public Surface {
 }  // namespace flutter
 
 #endif  // FLUTTER_SHELL_GPU_GPU_SURFACE_GL_SKIA_H_
-

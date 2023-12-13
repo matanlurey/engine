@@ -47,4 +47,3 @@ FlBinaryCodec* fl_binary_codec_new();
 G_END_DECLS
 
 #endif  // FLUTTER_SHELL_PLATFORM_LINUX_PUBLIC_FLUTTER_LINUX_FL_BINARY_CODEC_H_
-

@@ -2,9 +2,9 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
-#ifndef FLUTTER_SHELL_PLATFORM_FUCHSIA_DART-PKG_ZIRCON_FFI_HANDLE_H_
+#ifndef FLUTTER_SHELL_PLATFORM_FUCHSIA_DART - PKG_ZIRCON_FFI_HANDLE_H_
 
-#define FLUTTER_SHELL_PLATFORM_FUCHSIA_DART-PKG_ZIRCON_FFI_HANDLE_H_
+#define FLUTTER_SHELL_PLATFORM_FUCHSIA_DART -PKG_ZIRCON_FFI_HANDLE_H_
 
 #include "macros.h"
 
@@ -82,4 +82,3 @@ ZIRCON_FFI_EXPORT int zircon_dart_handle_attach_finalizer(
 #endif
 
 #endif  // FLUTTER_SHELL_PLATFORM_FUCHSIA_DART-PKG_ZIRCON_FFI_HANDLE_H_
-

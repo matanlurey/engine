@@ -63,4 +63,3 @@ class SurfaceTextureExternalTextureImpellerGL
 }  // namespace flutter
 
 #endif  // FLUTTER_SHELL_PLATFORM_ANDROID_SURFACE_TEXTURE_EXTERNAL_TEXTURE_GL_H_
-

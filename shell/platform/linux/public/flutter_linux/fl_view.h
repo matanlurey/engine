@@ -62,4 +62,3 @@ FlEngine* fl_view_get_engine(FlView* view);
 G_END_DECLS
 
 #endif  // FLUTTER_SHELL_PLATFORM_LINUX_PUBLIC_FLUTTER_LINUX_FL_VIEW_H_
-

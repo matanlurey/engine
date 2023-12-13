@@ -35,4 +35,3 @@ class ConnectionCollection {
 }  // namespace flutter
 
 #endif  // FLUTTER_SHELL_PLATFORM_DARWIN_IOS_FRAMEWORK_SOURCE_CONNECTION_COLLECTION_H_
-

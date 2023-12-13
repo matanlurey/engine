@@ -159,4 +159,3 @@ class IOSContext {
 }  // namespace flutter
 
 #endif  // FLUTTER_SHELL_PLATFORM_DARWIN_IOS_IOS_CONTEXT_H_
-

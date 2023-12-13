@@ -237,4 +237,3 @@ constexpr float kScrollExtentMaxForInf = 1000;
 @end
 
 #endif  // FLUTTER_SHELL_PLATFORM_DARWIN_IOS_FRAMEWORK_SOURCE_SEMANTICSOBJECT_H_
-

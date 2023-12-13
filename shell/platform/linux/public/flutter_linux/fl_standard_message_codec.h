@@ -49,4 +49,3 @@ FlStandardMessageCodec* fl_standard_message_codec_new();
 G_END_DECLS
 
 #endif  // FLUTTER_SHELL_PLATFORM_LINUX_PUBLIC_FLUTTER_LINUX_FL_STANDARD_MESSAGE_CODEC_H_
-

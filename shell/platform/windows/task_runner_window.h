@@ -67,4 +67,3 @@ class TaskRunnerWindow {
 }  // namespace flutter
 
 #endif  // FLUTTER_SHELL_PLATFORM_WINDOWS_TASK_RUNNER_WINDOW_H_
-

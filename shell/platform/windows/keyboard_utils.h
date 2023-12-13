@@ -45,4 +45,3 @@ std::u16string EncodeUtf16(char32_t character);
 }  // namespace flutter
 
 #endif  // FLUTTER_SHELL_PLATFORM_WINDOWS_KEYBOARD_UTILS_H_
-

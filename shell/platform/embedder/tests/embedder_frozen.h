@@ -113,4 +113,3 @@ typedef struct {
 }  // namespace flutter
 
 #endif  // FLUTTER_SHELL_PLATFORM_EMBEDDER_TESTS_EMBEDDER_FROZEN_H_
-

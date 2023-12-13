@@ -125,4 +125,3 @@ class ScopedStubFlutterWindowsApi {
 }  // namespace flutter
 
 #endif  // FLUTTER_SHELL_PLATFORM_WINDOWS_CLIENT_WRAPPER_TESTING_STUB_FLUTTER_WINDOWS_API_H_
-

@@ -258,4 +258,3 @@ class PlatformView : public flutter::PlatformView {
 }  // namespace flutter_runner
 
 #endif  // FLUTTER_SHELL_PLATFORM_FUCHSIA_FLUTTER_PLATFORM_VIEW_H_
-

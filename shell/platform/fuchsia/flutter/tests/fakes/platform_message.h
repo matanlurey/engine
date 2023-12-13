@@ -64,4 +64,3 @@ class FakePlatformMessageResponse : public PlatformMessageResponse {
 }  // namespace flutter_runner::testing
 
 #endif  // FLUTTER_SHELL_PLATFORM_FUCHSIA_FLUTTER_TESTS_FAKES_PLATFORM_MESSAGE_H_
-

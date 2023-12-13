@@ -107,4 +107,3 @@ class MappedResource {
 }  // namespace dart_utils
 
 #endif  // FLUTTER_SHELL_PLATFORM_FUCHSIA_RUNTIME_DART_UTILS_MAPPED_RESOURCE_H_
-

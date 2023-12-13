@@ -134,4 +134,3 @@ class JNIMock final : public PlatformViewAndroidJNI {
 }  // namespace flutter
 
 #endif  // FLUTTER_SHELL_PLATFORM_ANDROID_JNI_JNI_MOCK_H_
-

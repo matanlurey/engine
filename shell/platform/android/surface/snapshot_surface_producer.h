@@ -25,4 +25,3 @@ class AndroidSnapshotSurfaceProducer : public SnapshotSurfaceProducer {
 
 }  // namespace flutter
 #endif  // FLUTTER_SHELL_PLATFORM_ANDROID_SURFACE_SNAPSHOT_SURFACE_PRODUCER_H_
-

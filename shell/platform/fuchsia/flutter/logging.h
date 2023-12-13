@@ -16,4 +16,3 @@ namespace flutter_runner {
 }  // namespace flutter_runner
 
 #endif  // FLUTTER_SHELL_PLATFORM_FUCHSIA_FLUTTER_LOGGING_H_
-

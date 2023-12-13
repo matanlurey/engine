@@ -74,4 +74,3 @@ extern FlutterUIPressProxy* keyEventWithPhase(UIPressPhase phase,
 }  // namespace testing
 }  // namespace flutter
 #endif  // FLUTTER_SHELL_PLATFORM_DARWIN_IOS_FRAMEWORK_SOURCE_FLUTTERFAKEKEYEVENTS_H_
-

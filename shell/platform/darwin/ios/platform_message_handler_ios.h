@@ -51,4 +51,3 @@ class PlatformMessageHandlerIos : public PlatformMessageHandler {
 }  // namespace flutter
 
 #endif  // FLUTTER_SHELL_PLATFORM_DARWIN_IOS_PLATFORM_MESSAGE_HANDLER_IOS_H_
-

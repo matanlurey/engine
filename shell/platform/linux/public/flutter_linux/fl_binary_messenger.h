@@ -230,4 +230,3 @@ void fl_binary_messenger_set_warns_on_channel_overflow(
 G_END_DECLS
 
 #endif  // FLUTTER_SHELL_PLATFORM_LINUX_PUBLIC_FLUTTER_LINUX_FL_BINARY_MESSENGER_H_
-

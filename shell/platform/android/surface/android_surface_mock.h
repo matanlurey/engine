@@ -55,4 +55,3 @@ class AndroidSurfaceMock final : public GPUSurfaceGLDelegate,
 }  // namespace flutter
 
 #endif  // FLUTTER_SHELL_PLATFORM_ANDROID_SURFACE_ANDROID_SURFACE_MOCK_H_
-
